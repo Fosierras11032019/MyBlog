@@ -4,4 +4,11 @@ Tengo 59 años
 Continuo aprendiendo.
 Me apasiona hacer desarrollo de software.
 __________________________________________ 
-Estoy actualizando mis conocimientos técnicos en Platzi
+Estoy actualizando mis conocimientos técnicos en Platz
+
+_________________________________________________ 
+He creado una nueva carpeta llamada proyecto2
+Estoy trabajando directamente en la rama footer.
+Allí realizaré los cambios que luego se integrarán con el header
+
+
