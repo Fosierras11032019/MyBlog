@@ -1,2 +1,10 @@
 # MyBlog
-Aprendiendo a usar Git y Github
+Aprendiendo a usar Git y [Github](https://github.com/ "Github")
+>El curso de Github es my util dentro de mi ruta de aprendizaje de inteligencia artificial.
+
+##Lo que incluye el curso:
+- Todos los comandos de Git
+- El flujo de trabajo en Git
+- Las buenas prácticas
+
+Este archivo tiene una finalidad pedagógica para facilitar el aprendizaje.
