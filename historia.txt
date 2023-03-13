@@ -12,6 +12,11 @@ He creado una nueva carpeta llamada proyecto2
 Estoy trabajando directamente en la rama footer.
 Allí realizaré los cambios que luego se integrarán con el header
 
+----------
+Haremos un experimento 1 12032023-09:14
+
+---------
+
 =======
 Estoy actualizando mis conocimientos técnicos en Platzi
 
